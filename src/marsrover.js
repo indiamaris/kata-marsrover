@@ -1,3 +1,5 @@
+// We have to maintain a naming pattern for var and const.
+
 const marsrover = {
   x: 0,
   y: 0,
