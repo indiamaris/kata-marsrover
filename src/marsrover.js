@@ -1,4 +1,4 @@
-// We have to maintain a naming pattern for var and const.
+// ¿Tenemos que mantener un patrón de nombres para var y const?
 
 const marsrover = {
   x: 0,
